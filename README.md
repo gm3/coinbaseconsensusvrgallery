@@ -1,8 +1,9 @@
 # Long The Metaverse | Consensus 2021
 Main Event Dates: Mon 24th to the Thurs 27th
-Website
+[Link To This Information](https://gm3.github.io/coinbaseconsensusvrgallery/)
 
 VR Gallery Link: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+
 
 VR Talk Date: **May 26th at 2:30-3 PM Eastern**
 The artists will be getting together for a roudtable talk and panel inside VR, and going live for 30 minutes during the coindesk event about NFTs, VR, and the merger of the metaverse and how it has changed our lives.
