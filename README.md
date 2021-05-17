@@ -317,7 +317,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## Didler RA
 ### THE STUNNING WHALEGIRL
-[![](https://i.imgur.com/m4JrMLd.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59)
+[![](https://i.imgur.com/m4JrMLd.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/58)
 <p>Third character from the CYBER FREAK CIRCUS</p>
 
 
