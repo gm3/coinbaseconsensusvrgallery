@@ -1,18 +1,23 @@
 [Link To This Information](https://gm3.github.io/coinbaseconsensusvrgallery/)
 # Long The Metaverse | Consensus 2021
 
+Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for an immersive virtual experience aimed at exploring the evolution of cryptocurrency and blockchain technology. As CoinDesk’s largest event of the year, this four-day experience will bring together more than 10,000 attendees across a variety of educational panels, workshops, keynotes, fire-side chats, networking experiences and more for an up-close look at the good, the bad, the ups, the downs, the excesses and the optimism of crypto.
+
+"Long The Metaverse VR Exhibition" is a virtual reality art exhibition featuring two galleries showing incredible works from top cryptoartists as well as multiple live streamed artist interviews. We invite you to come by the galleries! They are accessible via VR Headset, Desktop PC, and Laptops.
+
+
 
 [![](https://i.imgur.com/EScP0oJ.jpg)](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
 
 
 
 ---
-Coindesk Gallery Link: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+Exhibit A: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
 
 
 ---
 
-$Whale Gallery Expo Link: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+Exhibit B: [https://hubs.mozilla.com/acukD72/adored-solid-roundtable](https://hubs.mozilla.com/acukD72/adored-solid-roundtable)
 
 
 ---
@@ -63,7 +68,7 @@ VR Talk Date(s):
 
 
 
-<p>The artists will be getting together for roudtable talks and panels inside VR. They will be going live for 30 minutes during the coindesk event to talk about NFTs, VR, and the metaverse.</p>
+<p>The artists will be getting together for roundtable talks and panels inside VR. They will be going live for 30 minutes during the coindesk event to talk about NFTs, VR, and the metaverse.</p>
 
 ---
 # Artists / Works On Display
@@ -74,7 +79,7 @@ VR Talk Date(s):
 * Website - [https://coldie3d.com/](https://coldie3d.com/)
 ### The Lost Vitalik - Decentral Eyes 3d
 [![](https://i.imgur.com/OFXHLWv.jpg)](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
-<p>My first release in 2018 on R.A.R.E Art Labs was of Vitalik Buterin, the first portrait of the Decentral Eyes Portrait Series. Before I was making 3D animated rotations with my portraits, I was creating true stereoscopic 3D artworks that viewers use red/blue 3D glasses to see depth in the image. Since the crypto art space was so brand new in 2018, this artwork went unnoticed for over a year. As the technology evolved and I saw the value of ERC-721 NFTs, I chose to burn all my unsold tokens on R.A.R.E., thus rewarding early collectors and improve scarcity. Since no one bought the original ERC-20 token of Vitalik, it sat in my digital archives as the Decentral Eyes series continued to evolve. I chose to release this as a 1/1 on Super Rare to give it its proper place as an ERC-721 NFT, especially as this is a first of style artwork and the genesis artwork of the entire Decentral Eyes series that has evolved so much since this work was created. Dimensions: 3200px x 4000px, JPEG This artwork also comes with a signed pair of Coldie/Hackatao 3D glasses with the name of this piece noted on the glasses frame. The red/blue lenses show the image in stereoscopic 3D with the depth it was intended to be seen.</p>
+<p>My first release in 2018 on R.A.R.E Art Labs was of Vitalik Buterin, the first portrait of the Decentral Eyes Portrait Series. Before I was making 3D animated rotations with my portraits, I was creating true stereoscopic 3D artworks that viewers use red/blue 3D glasses to see depth in the image. Since the crypto art space was so brand new in 2018, this artwork went unnoticed for over a year. As the technology evolved and I saw the value of ERC-721 NFTs, I chose to burn all my unsold tokens on R.A.R.E., thus rewarding early collectors and improving scarcity. Since no one bought the original ERC-20 token of Vitalik, it sat in my digital archives as the Decentral Eyes series continued to evolve. I chose to release this as a 1/1 on Super Rare to give it its proper place as an ERC-721 NFT, especially as this is a first of style artwork and the genesis artwork of the entire Decentral Eyes series that has evolved so much since this work was created. Dimensions: 3200px x 4000px, JPEG This artwork also comes with a signed pair of Coldie/Hackatao 3D glasses with the name of this piece noted on the glasses frame. The red/blue lenses show the image in stereoscopic 3D with the depth it was intended to be seen.</p>
 
 [https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
 
@@ -160,7 +165,7 @@ VR Talk Date(s):
 [![](https://i.imgur.com/7Bbuj0V.jpg)](https://niftygateway.com/itemdetail/primary/0x7196997c2073cc67b47fe91d0dfaa0a0ec88692a/1)
 
 
-<p>A statue for the Metaverse; a warning to all those who enter that we must avoid allowing the gatekeepers, middlemen and overseers of the old world mediate our experience of this new digital frontier. Hand modelled entirely in virtual reality using Gravity Sketch on Oculus Quest 2. Bespoke doom soundtrack written by Cosmognostic. Drums performed / recording engineered by John Simm.</p>
+<p>A statue for the Metaverse; a warning to all those who enter that we must avoid allowing the gatekeepers, middlemen and overseers of the old world to mediate our experience of this new digital frontier. Hand modelled entirely in virtual reality using Gravity Sketch on Oculus Quest 2. Bespoke doom soundtrack written by Cosmognostic. Drums performed / recording engineered by John Simm.</p>
 
 [https://niftygateway.com/itemdetail/primary/0x7196997c2073cc67b47fe91d0dfaa0a0ec88692a/1](https://niftygateway.com/itemdetail/primary/0x7196997c2073cc67b47fe91d0dfaa0a0ec88692a/1)
 ### **Golden Cyclops**
@@ -201,7 +206,7 @@ VR Talk Date(s):
 [![](https://i.imgur.com/5W4tPWL.jpg)](https://superrare.co/artwork-v2/the-original-oculus-19253)
 
 
-<p>A biomechanical marvel an treasure of the Artist and Creator. For over a thousand years it was once thought that the Eyes functioned in similar ways to a torch, emanating beams of light out at the world and illuminating the objects we looked at. It was only through further dissection around the 17th Century that we realised that imagery captured by the lens of the eye was rendered upside down with our brains doing the heavy lifting of translating sensory information.</p>
+<p>A biomechanical marvel and treasure of the Artist and Creator. For over a thousand years it was once thought that the Eyes functioned in similar ways to a torch, emanating beams of light out at the world and illuminating the objects we looked at. It was only through further dissection around the 17th Century that we realised that imagery captured by the lens of the eye was rendered upside down with our brains doing the heavy lifting of translating sensory information.</p>
 
 [https://superrare.co/artwork-v2/the-original-oculus-19253](https://superrare.co/artwork-v2/the-original-oculus-19253)
 ### **The S.V Squawker is now boarding**
@@ -328,7 +333,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 * Twitter - [https://twitter.com/skeenee_art](https://twitter.com/skeenee_art)
 ### Call me Ishmael
 [![](https://i.imgur.com/Nr3zZRQ.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/65)
-<p>The Sperm Whale, a spouting fish with horizontal tail, is, without doubt, the largest inhabitant of the globe; the most formidable of all whales to encounter; the most majestic in aspect.</p>
+<p>The Sperm Whale, a spouting fish with a horizontal tail, is, without doubt, the largest inhabitant of the globe; the most formidable of all whales to encounter; the most majestic in aspect.</p>
 
 
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/65](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/65)
@@ -437,7 +442,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ### Be Whale and Prosper
 [![](https://i.imgur.com/1DlbeoQ.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59)
-<p>The idea behind “Be whale and prosper” is to celebrate the pillars of prosperity. Ever since the whale community started I’ve been amazed by the waves of knowledge, participation and creativity that emanates every day from its discord channel and events. Community members that care about each other and want others to join them in their voyage. Financial prosperity is only a consequence of the wealth of information, relationships and presence of mind in a community such as strong as whale and this deserves to be celebrated. 3D rendered skull with materials and reflections applied to balance and opaque mosaic on the skull. 3500 x 3500 rendered at 250 ppi.</p>
+<p>The idea behind “Be whale and prosper” is to celebrate the pillars of prosperity. Ever since the whale community started I’ve been amazed by the waves of knowledge, participation and creativity that emanates every day from its discord channel and events. Community members that care about each other and want others to join them in their voyage. Financial prosperity is only a consequence of the wealth of information, relationships and presence of mind in a community as strong as whale and this deserves to be celebrated. 3D rendered skull with materials and reflections applied to balance and opaque mosaic on the skull. 3500 x 3500 rendered at 250 ppi.</p>
 
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59)
 
