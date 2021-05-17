@@ -267,7 +267,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ---
 ## Bryan Brinkman
-* Discord discord.gg/YY5Yv5B
+* Discord [discord.gg/YY5Yv5B](discord.gg/YY5Yv5B)
 * Art - [https://niftygateway.com/collections/bryanbrinkman](https://niftygateway.com/collections/bryanbrinkman)
 * Twitter - [https://twitter.com/bryanbrinkman](https://twitter.com/bryanbrinkman)
 ### Whaleception
@@ -316,7 +316,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ---
 ## Didler RA
-### Be Whale and Prosper
+### THE STUNNING WHALEGIRL
 [![](https://i.imgur.com/m4JrMLd.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59)
 <p>Third character from the CYBER FREAK CIRCUS</p>
 
