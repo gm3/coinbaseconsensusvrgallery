@@ -337,12 +337,6 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ## Rare Designer
 * Twitter - [https://twitter.com/pepe_designer](https://twitter.com/pepe_designer)
 
-### Be Whale and Prosper
-[![](https://i.imgur.com/1DlbeoQ.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59)
-<p>The idea behind “Be whale and prosper” is to celebrate the pillars of prosperity. Ever since the whale community started I’ve been amazed by the waves of knowledge, participation and creativity that emanates every day from its discord channel and events. Community members that care about each other and want others to join them in their voyage. Financial prosperity is only a consequence of the wealth of information, relationships and presence of mind in a community such as strong as whale and this deserves to be celebrated. 3D rendered skull with materials and reflections applied to balance and opaque mosaic on the skull. 3500 x 3500 rendered at 250 ppi.</p>
-
-[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59)
-
 ---
 ## Legendary
 * Twitter - [https://twitter.com/Legendary_NFT](https://twitter.com/Legendary_NFT)
@@ -409,7 +403,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ---
 ## Van
-* Twitter - [http://www.twitter.com/godfreymeyer](http://www.twitter.com/godfreymeyer)
+* Twitter - [https://twitter.com/VansDesign_](https://twitter.com/VansDesign_)
 
 ### NEOWHALE
 [![](https://i.imgur.com/5v4YQqW.png)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/68)
