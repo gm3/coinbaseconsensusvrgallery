@@ -1,9 +1,12 @@
 [Link To This Information](https://gm3.github.io/coinbaseconsensusvrgallery/)
+![](https://i.imgur.com/0iiGmW4.png)
+
+
 # Long The Metaverse | Consensus 2021
 
 Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for an immersive virtual experience aimed at exploring the evolution of cryptocurrency and blockchain technology. As CoinDesk’s largest event of the year, this four-day experience will bring together more than 10,000 attendees across a variety of educational panels, workshops, keynotes, fire-side chats, networking experiences and more for an up-close look at the good, the bad, the ups, the downs, the excesses and the optimism of crypto.
 
-"Long The Metaverse VR Exhibition" is a virtual reality art exhibition featuring two galleries showing incredible works from top cryptoartists as well as multiple live streamed artist interviews. We invite you to come by the galleries! They are accessible via VR Headset, Desktop PC, and Laptops.
+"Long The Metaverse VR Exhibition" is a virtual reality art exhibition featuring two galleries showing incredible works from top cryptoartists as well as multiple live streamed artist interviews. We invite you to come by the galleries! The spaces are accessible via VR Headset, Desktop PC in your browser, laptops or high end phones.
 
 
 
