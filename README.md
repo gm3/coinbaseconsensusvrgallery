@@ -8,7 +8,15 @@
 
 ---
 Coindesk Gallery Link: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+
+
+---
+
 $Whale Gallery Expo Link: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+
+
+---
+
 
 [![](https://i.imgur.com/OGere55.jpg)](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
 
@@ -32,7 +40,7 @@ VR Talk Date(s):
     * [Arsenic Lullaby](https://twitter.com/arsenic_lullaby)
     * [Franky Nines](https://twitter.com/frankynines)
     * [George Boya](https://twitter.com/BoyaGeorge)
-    * [Didler RA](https://)
+    * [Didier RA](https://twitter.com/DidierRA1)
     * [Giant Swan](https://twitter.com/A_Giant_Swan)
 
 * Group 3 **May 26th at TBD PM Eastern**
@@ -44,7 +52,7 @@ VR Talk Date(s):
     * [Marc0Matic](https://twitter.com/marc0matic)
     * [DankVR](https://twitter.com/dankvr)
 * Group 4 TBD 27th at TBD PM Eastern
-    * [Van](https://)
+    * [Van](https://twitter.com/VansDesign_)
     * [Sabet](https://twitter.com/sabet)
     * [CryptoMotors](https://twitter.com/CryptoMotors_io)
     * [Twisted Vacancy](https://twitter.com/twistedvacancy)
@@ -126,7 +134,7 @@ VR Talk Date(s):
 [![](https://i.imgur.com/27Aw7KD.png)](https://www.superrare.co/artwork-v2/florafaunaskull-16035)
 
 
-<p>Flower skull with brain seeds.>/p>
+<p>Flower skull with brain seeds.</p>
 
 [https://www.superrare.co/artwork-v2/florafaunaskull-16035](https://www.superrare.co/artwork-v2/florafaunaskull-16035)
 ### **Origin SPECTR**
