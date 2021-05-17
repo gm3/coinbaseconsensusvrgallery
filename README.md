@@ -2,15 +2,16 @@
 ![](https://i.imgur.com/0iiGmW4.png)
 
 
-# Long The Metaverse | Consensus 2021
+# Long The Metaverse VR Exposition at Coindesk Consensus 2021
 
 Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for an immersive virtual experience aimed at exploring the evolution of cryptocurrency and blockchain technology. As CoinDesk’s largest event of the year, this four-day experience will bring together more than 10,000 attendees across a variety of educational panels, workshops, keynotes, fire-side chats, networking experiences and more for an up-close look at the good, the bad, the ups, the downs, the excesses and the optimism of crypto.
 
 "Long The Metaverse VR Exhibition" is a virtual reality art exhibition featuring two galleries showing incredible works from top cryptoartists as well as multiple live streamed artist interviews. We invite you to come by the galleries! The spaces are accessible via VR Headset, Desktop PC in your browser, laptops or high end phones.
 
+Featured artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Hackatao](https://twitter.com/Hackatao), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [Franky Nines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [CryptoMotors](https://twitter.com/CryptoMotors_io), [Twisted Vacancy](https://twitter.com/twistedvacancy), [RTFKT](https://twitter.com/RTFKTstudios), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
-
-[![](https://i.imgur.com/EScP0oJ.jpg)](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+[![](https://i.imgur.com/8kDMoD3.png)
+](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
 
 
 
@@ -31,8 +32,8 @@ Exhibit B: [https://hubs.mozilla.com/acukD72/adored-solid-roundtable](https://hu
 
 ---
 ## Schedule
-Main Event Dates: **Mon 24th to the Thurs 27th**
-VR Talk Date(s):
+#### Main Event Dates: **Mon 24th to the Thurs 27th**
+VR Talk Date(s): TBD
 
 * Group 1 TBD 24th at TBD PM Eastern
     * [Skeenee](https://twitter.com/skeenee_art)
